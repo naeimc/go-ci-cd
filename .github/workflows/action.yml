@@ -1,3 +1,4 @@
+name: Build-And-Test
 on: [push, workflow_dispatch]
 jobs:
     build-and-test:
